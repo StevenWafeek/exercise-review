@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+span {
+  display: flex;
+  width: 300px;
+  justify-content: flex-end;
+  height: 31px;
+  background-color: #e9fffa;
+  border-radius: 11px;
+  align-items: center;
+  gap: 10px;
+  padding: 2%;
+}
+
+button {
+  border: 2px solid #dbdbdb;
+  border-radius: 7px;
+  background: #d3d3d3;
+}
+
+span input {
+  width: 100%;
+}
+
+li {
+  list-style-type: none;
+  width: 100%;
+}
+
+.todo-input {
+  width: 100%;
+}
+
+.todo {
+  width: 270px;
+  background-color: #e9fffa;
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+  padding: 2%;
+}
