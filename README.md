@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 math-magicians <a name="about-project"></a>
+# 📖 Todo-list <a name="about-project"></a>
 
-This is **math-magicians** site, created with React make a a calculation of the numbers.
+This is **Todo-list** site, created with React make a a calculation of the numbers.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +65,7 @@ In order to run this project you need:
 Clone this repository to your desired folder by opening the terminal and running the following command:
 
 ```sh
- git clone `https://github.com/StevenWafeek/math-magicians`
+ git clone `https://github.com/StevenWafeek/exercise-review`
 
 ```
 
@@ -132,7 +132,7 @@ Deployed by GitHub Pages.
 
 ## 🔭 Future milestone <a name="future-features"></a>
 
-- make functionalty for culculations.
+- make a todo-list.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +140,7 @@ Deployed by GitHub Pages.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, <a href="https://github.com/StevenWafeek/math-magicians/issues">Issues </a>, and feature requests are welcome!
+Contributions, <a href="https://github.com/StevenWafeek/exercise-review/issues">Issues </a>, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
