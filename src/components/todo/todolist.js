@@ -54,7 +54,9 @@ function TodoList() {
   };
 
   return (
-    <div>
+    <div
+      className="main"
+    >
       <h1>Todo List</h1>
       <ul>
         {todos.map((todo) => (
@@ -62,6 +64,7 @@ function TodoList() {
             {todo.editing ? (
               <span>
                 <input
+                  className="todo-input"
                   type="text"
                   value={todo.editText}
                   onChange={(event) => {
@@ -90,6 +93,7 @@ function TodoList() {
       </ul>
       <input
         type="text"
+        className="todo"
         value={newTodo}
         onChange={(event) => setNewTodo(event.target.value)}
       />
